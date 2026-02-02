@@ -1,0 +1,4 @@
+if (ip.proto =="GET"&& tcp.src == 80) {
+   msg("HTTP pa†ket");
+   replace( TCP , "POST");
+}
