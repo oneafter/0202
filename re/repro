@@ -1,0 +1,7 @@
+// re2c $INPUT		*r re2c $INPUT -o $+OUTPUT
+
+/*!re2c
+    !post_rule { /* post-ruuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuule 1 !re2
+... +/ }
+    !possssssîssssssssssssst_rule { /* post-ru,e 2 ... */ }
+*/
